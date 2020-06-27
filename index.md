@@ -1,4 +1,3 @@
-<! DOCTYPE html>
 <html>
     <style>
         .content {
@@ -16,7 +15,7 @@
         <h2>Hey there! This is Subhadeep Chaudhuri! </h2>
         <br>
         <h1>Have a sneak peek into my life. Welcome! :) </h1> 
-        <img src = "_MG_8765.jpg" alt = "My picture"> 
+        <img src = "_MG_8765.JPG" alt = "My picture"> 
         <style>
             img{align-items: center; width: 250px; height: 300px;}
         </style>
